@@ -3,8 +3,15 @@ SGWORLDに変更しる
 add adbranch new line
 
 
+<<<<<<< HEAD
 New Branch add
 
 
 
 test:
+=======
+New Branch addMessage
+
+
+SGWORLD
+>>>>>>> a5b227c... test2
